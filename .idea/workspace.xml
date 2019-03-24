@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8ba12b-8a7d-4287-a9a0-abdfea4b33fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/BasicDataStructures/GeneralCaseBalancedParentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/BasicDataStructures/SimpleBalancedParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/BasicDataStructures/SimpleBalancedParentheses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/AlgorithmAnalysis/TimingPopPerformance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/AlgorithmAnalysis/PopPeformanceComparision.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/GeneralCaseBalancedParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="234">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -124,8 +123,9 @@
         <option value="$PROJECT_DIR$/venv/AlgorithmAnalysis/CompareSearchTechniques.py" />
         <option value="$PROJECT_DIR$/venv/BasicDataStructures/Stack.py" />
         <option value="$PROJECT_DIR$/venv/AlgorithmAnalysis/Excersise.py" />
-        <option value="$PROJECT_DIR$/venv/BasicDataStructures/SimpleBalancedParentheses.py" />
         <option value="$PROJECT_DIR$/venv/BasicDataStructures/GeneralCaseBalancedParentheses.py" />
+        <option value="$PROJECT_DIR$/venv/BasicDataStructures/SimpleBalancedParentheses.py" />
+        <option value="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" />
       </list>
     </option>
   </component>
@@ -135,7 +135,9 @@
     <option name="width" value="1839" />
     <option name="height" value="976" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -182,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GeneralCaseBalancedParentheses">
-    <configuration name="CompareSearchTechniques" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DecimalToBinary">
+    <configuration name="DecimalToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProblemSolvingPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/AlgorithmAnalysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/BasicDataStructures" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/AlgorithmAnalysis/CompareSearchTechniques.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DecimalToBinary" />
         <item itemvalue="Python.GeneralCaseBalancedParentheses" />
         <item itemvalue="Python.SimpleBalancedParentheses" />
         <item itemvalue="Python.Excersise" />
         <item itemvalue="Python.Stack" />
-        <item itemvalue="Python.CompareSearchTechniques" />
       </list>
     </recent_temporary>
   </component>
@@ -309,23 +311,31 @@
       <option name="presentableId" value="Default" />
       <updated>1552110727712</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added GeneralCase balanced parentheses checker">
+      <created>1553390839478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553390839478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="23" width="1839" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18921892" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18921892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3280543" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32918552" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -334,6 +344,36 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added GeneralCase balanced parentheses checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GeneralCase balanced parentheses checker" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -341,6 +381,11 @@
           <url>file://$PROJECT_DIR$/venv/AlgorithmAnalysis/Excersise.py</url>
           <line>44</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -406,6 +451,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/GeneralCaseBalancedParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/SimpleBalancedParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -413,10 +465,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/GeneralCaseBalancedParentheses.py">
+    <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
