@@ -28,3 +28,7 @@ def doMath(op, op1, op2):
         return  op1 + op2
     else:
         return op1 - op2
+
+if __name__ == "__main__":
+    result = postFixEvaluation("123*+")
+    print(result)

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8ba12b-8a7d-4287-a9a0-abdfea4b33fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/BasicDataStructures/InfixToPostfix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/InfixToPostfix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="648">
+              <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="17" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -80,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="421">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -194,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InfixToPostfix">
+  <component name="RunManager" selected="Python.PostfixEvaluation">
     <configuration name="DecimalToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProblemSolvingPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,27 +206,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/BasicDataStructures/DecimalToBinary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Excersise" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProblemSolvingPractices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/AlgorithmAnalysis" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/AlgorithmAnalysis/Excersise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,6 +256,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PostfixEvaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProblemSolvingPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/BasicDataStructures" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SimpleBalancedParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProblemSolvingPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PostfixEvaluation" />
         <item itemvalue="Python.InfixToPostfix" />
         <item itemvalue="Python.DecimalToBinary" />
         <item itemvalue="Python.GeneralCaseBalancedParentheses" />
         <item itemvalue="Python.SimpleBalancedParentheses" />
-        <item itemvalue="Python.Excersise" />
       </list>
     </recent_temporary>
   </component>
@@ -335,19 +333,26 @@
       <option name="project" value="LOCAL" />
       <updated>1553401390130</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="infix to postfix and postfix evaluation">
+      <created>1553924108796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553924108796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="23" width="1839" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18921892" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18921892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3280543" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280543" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,7 +409,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added GeneralCase balanced parentheses checker" />
     <MESSAGE value="DecimalToBinary implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="DecimalToBinary implementation" />
+    <MESSAGE value="infix to postfix and postfix evaluation" />
+    <option name="LAST_COMMIT_MESSAGE" value="infix to postfix and postfix evaluation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -506,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/InfixToPostfix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="648">
+          <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="17" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -516,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/BasicDataStructures/PostfixEvaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="421">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
